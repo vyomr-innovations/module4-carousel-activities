@@ -1,0 +1,43 @@
+[
+    {
+        "qustion":"Can you please get five apples for dessert?",
+        "val":"Concise",
+        "ans":[
+            {"option":"Clear"},
+            {"option":"Concise"},
+            {"option":"Complete"},
+            {"option":"Courteous"}
+        ]
+    },
+     {
+        "qustion":"Oh how lovely to see you. Please come and join us for dinner.",
+        "val":"Courteous",
+        "ans":[
+            {"option":"Clear"},
+            {"option":"Concise"},
+            {"option":"Complete"},
+            {"option":"Courteous"}
+        ]
+    },
+    
+    {
+        "qustion":"We will need healthy snacks, water, sunglasses, and a map for the school trip .",
+        "val":"Complete",
+        "ans":[
+            {"option":"Clear"},
+            {"option":"Concise"},
+            {"option":"Complete"},
+            {"option":"Courteous"}
+        ]
+    },
+      {
+        "qustion":"I would like to do this activity with my peers because I want to understand it in an enjoyable way .",
+        "val":"Clear",
+        "ans":[
+            {"option":"Clear"},
+            {"option":"Concise"},
+            {"option":"Complete"},
+            {"option":"Courteous"}
+        ]
+    }
+]

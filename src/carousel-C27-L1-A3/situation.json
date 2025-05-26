@@ -1,0 +1,102 @@
+[
+    {
+        "Situation": "You’ve to tell your peer to keep quiet in the library.",
+        "option": [
+
+             {
+                "option": " I like to read quietly.",
+                "val": "Reason"
+            },
+            
+            {
+                "option": "It’s nice to see you at the library, but the library is a quiet place",
+                "val": "Mention"
+            },
+            
+            {
+                "option": "I’d really appreciate it if you can talk in your quiet voice or read silently.",
+                "val": "Change"
+            },
+            
+            {
+                "option": "Or we can agree on using the library at different times. I hope you can understand.",
+                "val": "Suggest"
+            }
+        ]
+    },
+    
+    {
+        "Situation": "You’ve to ask your teacher to speak slowly.",
+        "option": [
+           
+             {
+                "option": "I’m a slow listener",
+                "val": "Reason"
+            },
+            
+            {
+                "option": "I hope you can speak slowly so I can understand what you teach in class.",
+                "val": "Change"
+            },
+            
+            {
+                "option": "When I improve, I am happy to try listening to you speak fast. Thank you.",
+                "val": "Suggest"
+            },
+             {
+                "option": "I really enjoy your class, but I think that you speak too fast for me.",
+                "val": "Mention"
+            }
+        ]
+    },
+
+    {
+        "Situation": "You have to let your parents know that you want other presents on your birthday.",
+        "option": [
+             {
+                "option": "Is it possible for you to give presents I can appreciate?",
+                "val": "Change"
+            },
+            
+             {
+                "option": "I love that you want to give me something, but I prefer something else  like books, for example.",
+                "val": "Reason"
+            },
+            
+           
+            {
+                "option": "Thank you for the present, but I don’t play with barbies.",
+                "val": "Mention"
+            },
+            
+            {
+                "option": "I’m happy to tell you what I like so you’re happy to give me presents I can appreciate.I hope you can understand.",
+                "val": "Suggest"
+            }
+        ]
+    },
+     {
+        "Situation": "You have to ask your friend to speak in their quiet voice.",
+        "option": [
+            
+            {
+                "option": "I hope you can lower your voice so we can talk in a nice way.. I’d really appreciate it.",
+                "val": "Change"
+            },
+             {
+                "option": "I have sensitive ears.",
+                "val": "Reason"
+            },
+            {
+                "option": "I really enjoy spending time with you, but sometimes, you are too loud for me.",
+                "val": "Mention"
+            },
+            
+            
+            {
+                "option": "I can also try to adjust to your voice if you try to speak in a balanced voice. Thank you.",
+                "val": "Suggest"
+            }
+        ]
+    }
+]
