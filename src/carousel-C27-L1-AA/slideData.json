@@ -1,0 +1,25 @@
+[
+    {
+        "qustion":"What will you do if a student doesn’t tidy their desk after lunch?",
+        "sugg":"I promise to speak to them politely to tidy their desks. I will also offer a reward for the best looking desk."
+        
+    },
+     {
+        "qustion":"How will you handle it if two students show incorrect behavior towards each other?",
+        "sugg":"I will speak to both to see how to solve the problem."
+        
+    },
+    
+    {
+        "qustion":"How do we know that you are a good class prefect?",
+        "sugg":"I will make sure that I do my best to be a good class prefect. But you can always inform the teacher."
+       
+        
+    },
+      {
+        "qustion":"What if your friends create trouble in the classroom?",
+        "sugg":"I understand that being a class prefect means seeing all as equal. I will not be partial."
+      
+        
+    }
+]
