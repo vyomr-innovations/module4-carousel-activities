@@ -1,18 +1,19 @@
 "use client"
 import React, { useState } from 'react'
 import FirstScreen from './firstScreen'
-import Result from './result'
 import Start from './start'
+import Result from './result'
 
-const CarouselC27L1A1 = () => {
+const CarouselC27L3A1 = () => {
     const [isFristScreen,setIsFirstScreen]=useState("start")
   return (
     <div>
       {isFristScreen == "start" && <Start setIsFirstScreen={setIsFirstScreen}/>}
-      {isFristScreen == "firstScreen" && <FirstScreen setIsFirstScreen={setIsFirstScreen}/>}
+      {isFristScreen == "firstScreen" && <FirstScreen setIsFirstScreen={setIsFirstScreen} />}
       {isFristScreen == "result" && <Result />}
+
     </div>
   )
 }
 
-export default CarouselC27L1A1
+export default CarouselC27L3A1

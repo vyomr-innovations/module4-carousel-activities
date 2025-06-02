@@ -1,18 +1,20 @@
-"use client"
+"use client";
+import { useState } from "react";
 // import React, { useState } from 'react'
 
-import SituationSlide from './slide'
-
+import SituationSlide from "./slide";
+import Start from "./start";
 
 const CarouselC27L1A3 = () => {
-    // const [isFristScreen,setFirstScreen]=useState("firstScreen")
+  const [isFristScreen, setIsFirstScreen] = useState("start");
   return (
     <div>
-     
-    <SituationSlide />
-      {/* {isFristScreen == "result" && <Result />} */}
+      {isFristScreen == "start" && (
+        <Start setIsFirstScreen={setIsFirstScreen} />
+      )}
+      {isFristScreen == "firstScreen" && <SituationSlide />}
     </div>
-  )
-}
+  );
+};
 
-export default CarouselC27L1A3
+export default CarouselC27L1A3;

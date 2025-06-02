@@ -1,0 +1,42 @@
+[
+   {
+      "text": "Sam repeats the same phrase over and over again in her talk.",
+      "val": "Concise",
+      "ans":["Concise","Concrete","Courteous","Coherent","Complete","Clear","Correct"]
+   },
+   
+   {
+      "text": "Bill does not use specific facts and figures to support his message.",
+      "val": "Concrete",
+      "ans":["Concise","Concrete","Courteous","Coherent","Complete","Clear","Correct"]
+   },
+   
+   {
+      "text": "Ron is not polite and considerate of others.",
+      "val": "Courteous",
+      "ans":["Concise","Concrete","Courteous","Coherent","Complete","Clear","Correct"]
+   },
+
+   {
+      "text": "Myra’s message is not organized in any way, making it difficult for others to follow.",
+      "val": "Coherent",
+      "ans":["Concise","Concrete","Courteous","Coherent","Complete","Clear","Correct"]
+   },
+   
+   {
+      "text": "Zack does not provide all the necessary information and this results in confusion.",
+      "val": "Complete",
+      "ans":["Concise","Concrete","Courteous","Coherent","Complete","Clear","Correct"]
+   },
+    {
+      "text": "Alex mentions trash-free lunch without explaining what it means.",
+      "val": "Clear",
+      "ans":["Concise","Concrete","Courteous","Coherent","Complete","Clear","Correct"]
+   },
+   
+   {
+      "text": "Arna does not use accurate language and grammar in her speech.",
+      "val": "Correct",
+      "ans":["Concise","Concrete","Courteous","Coherent","Complete","Clear","Correct"]
+   }
+]

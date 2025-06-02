@@ -13,5 +13,38 @@
     {
         "link": "C27-L1-AA",
         "activity": "The Class Prefect"
+    },
+
+    {
+        "link": "C27-L2-A3",
+        "activity": "Debate the score card"
+    },{
+        "link": "C27-L2-A4",
+        "activity": "Picture reading"
+    },
+    
+    {
+        "link": "C27-L3-A1",
+        "activity": "7 Cs of communication"
+    },
+    
+    {
+        "link": "C27-L3-A2",
+        "activity":"Picture story"
+    },
+
+    {
+        "link": "C27-L3-A3",
+        "activity":"What will you do?"
+    },
+    
+    {
+        "link": "C27-L3-A4",
+        "activity":"Picture reading"
+    },
+    
+    {
+        "link": "C27-L3-warmup",
+        "activity": "Unscramble"
     }
 ]

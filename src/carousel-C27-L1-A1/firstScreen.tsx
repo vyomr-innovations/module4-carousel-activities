@@ -9,9 +9,9 @@ import { Navigation } from "swiper/modules";
 import slideData from "@/carousel-C27-L1-A1/slideData.json";
 
 const FirstScreen = ({
-  setFirstScreen,
+  setIsFirstScreen,
 }: {
-  setFirstScreen: (value: string) => void;
+  setIsFirstScreen: (value: string) => void;
 }) => {
   const swiperRef = useRef<SwiperClass | null>(null);
   const [show, setShow] = useState(true);
@@ -26,7 +26,7 @@ const FirstScreen = ({
   }, []);
   const handleNext = () => {
     if (lastSlide > slideData.length - 1) {
-      setFirstScreen("result");
+      setIsFirstScreen("result");
     }
     swiperRef.current?.slideNext();
   };
