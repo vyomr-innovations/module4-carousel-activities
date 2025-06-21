@@ -56,5 +56,9 @@
     {
         "link": "C27-L3-warmup",
         "activity": "Unscramble"
+    } ,
+    {
+        "link": "C27-L3-AA",
+        "activity": "Decode Speech"
     }
 ]
